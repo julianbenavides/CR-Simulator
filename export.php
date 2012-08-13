@@ -4,7 +4,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>XX - CR Simulator</title>
+	<title>Data Export Tool - CR Simulator</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<link rel="stylesheet" type="text/css" href="css/styles.css" />
 	<script src="js/scripts.js"></script>
@@ -16,7 +16,8 @@
                     <? include_once "left.php"; ?>
                     <div class="contents">
                     	<div class="content_in">
-	                    	<h1>XXX</h1>
+	                    	<h1>Data Export Tool</h1>
+	                    	<p>Development in progress</p>
 	                 </div>
                     </div>						
 		</div>
